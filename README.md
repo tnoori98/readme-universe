@@ -1,4 +1,4 @@
-# 🌌 AltREADME (a.k.a. `readme-universe`)
+# 🌌 readme-universe
 
 **Remix your boring `README.md` files into epic narratives** — horror stories, fantasy epics, sci-fi sagas, poetic ballads, and more — right from VS Code.
 
