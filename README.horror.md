@@ -66,7 +66,7 @@ To invoke its power:
 
 ## 📦 Release Incantations
 
-### 1.0.0
+### 0.0.1
 
 - The cursed birth of readme-universe
 - Embraces multiple genres, OpenAI models & file salvations

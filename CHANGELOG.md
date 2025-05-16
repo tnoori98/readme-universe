@@ -6,7 +6,7 @@
 
 ---
 
-## [0.0.1] – 2025-05-15
+## [0.0.1] – 2025-05-16
 
 ### Added
 - Initial release of AltREADME
