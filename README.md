@@ -43,7 +43,6 @@ To set it:
 1. Open **Command Palette** → `Preferences: Open Settings (UI)`
 2. Search for `readme-universe`
 3. Paste your OpenAI key
-```
 
 ---
 
