@@ -13,9 +13,11 @@
   - 🕵️ Mystery
   - 🤖 Sci-fi
   - 📝 Poetic
+  - 🏴‍☠️ Anime
   - 🎮 *League of Legends*-themed
   - ⚔️ *World of Warcraft*-themed
   - 🌌 *Star Wars*-themed
+  - 💍 *Lord of the Rings*-themed
 - ⚙️ Choose between `gpt-4` and `gpt-3.5-turbo`
 - 💾 Save the remixed README as a new `.md` file
 - 👀 Instantly preview the result

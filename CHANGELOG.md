@@ -1,9 +1,18 @@
-# Change Log
+## [0.0.2] – 2025-05-16
 
-All notable changes to the "readme-universe" extension will be documented in this file.
+### Added
+- 🏴‍☠️ Anime README remix
+- 💍 *Lord of the Rings*-themed README remix
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+---
 
-## [Unreleased]
+## [0.0.1] – 2025-05-15
 
-- Initial release
+### Added
+- Initial release of AltREADME
+- Genre support: horror, poetic, drama, mystery, sci-fi, fantasy
+- Game modes: League of Legends, World of Warcraft
+- Save remixed README to file
+- Preview
+- Model selector (gpt-4 or gpt-3.5-turbo)
+- API key configuration via VS Code settings

@@ -28,7 +28,7 @@ export function activate(context: vscode.ExtensionContext) {
 
     const style = await vscode.window.showQuickPick([
       'horror', 'poetic', 'drama', 'mystery', 'sci-fi', 'fantasy',
-      'league of legends', 'world of warcraft', 'star wars'
+      'league of legends', 'world of warcraft', 'star wars', 'lord of the rings', 'anime'
     ], { placeHolder: 'Choose a README remix style' })
 
     if (!style){
