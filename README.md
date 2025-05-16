@@ -82,7 +82,7 @@ To set it:
 
 ## ❤️ Contribute
 
-Have a fun style idea? Open a PR or file a GitHub issue. We love creative chaos.
+Have a fun style idea? Open a PR or file a GitHub issue. We love creative chaos
 
 ---
 
