@@ -1,3 +1,9 @@
+## [0.0.3] – 2025-05-18
+
+### Added
+- 🖼️ Extension icon for Marketplace listing
+- 📄 MIT license file
+
 ## [0.0.2] – 2025-05-16
 
 ### Added
@@ -9,7 +15,7 @@
 ## [0.0.1] – 2025-05-16
 
 ### Added
-- Initial release of AltREADME
+- Initial release of readme-universe
 - Genre support: horror, poetic, drama, mystery, sci-fi, fantasy
 - Game modes: League of Legends, World of Warcraft
 - Save remixed README to file

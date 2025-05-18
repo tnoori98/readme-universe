@@ -3,7 +3,7 @@
   "displayName": "readme-universe",
   "publisher": "readme-universe",
   "description": "rewrite your readme files into genre flavored narratives",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "images/readme-universe-icon.png",
   "engines": {
     "vscode": "^1.100.0"
